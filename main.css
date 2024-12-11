@@ -1,0 +1,9 @@
+h1,p {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+h1:nth-child(1) {
+    font-size: 32px;
+    margin-bottom: 50px;
+}
